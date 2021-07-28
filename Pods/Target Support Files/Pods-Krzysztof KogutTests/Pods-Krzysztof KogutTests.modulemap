@@ -1,0 +1,6 @@
+module Pods_Krzysztof_KogutTests {
+  umbrella header "Pods-Krzysztof KogutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
